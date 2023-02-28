@@ -15,6 +15,7 @@ public class Main {
         int c;
         String e;
         int r;
-        int main;
+        int v;
+        String feat5;
     }
 }
