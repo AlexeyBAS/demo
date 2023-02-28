@@ -8,6 +8,7 @@ public class Main {
         int 4;
         int 9;
         int 3;
+        int 5;
     }
 
     public void step() {
