@@ -11,5 +11,6 @@ public class Main {
 
     public void step() {
         int c;
+        String e;
     }
 }
