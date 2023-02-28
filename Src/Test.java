@@ -1,4 +1,3 @@
-
-public class Test {88888}
-
+public class Test {}
+jyuyuy
 interface
