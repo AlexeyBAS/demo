@@ -6,6 +6,7 @@ public class Main {
         int y;
         int o;
         int 4;
+        int 3;
     }
 
     public void step() {
