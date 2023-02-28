@@ -16,6 +16,7 @@ public class Main {
         String e;
         int r;
         int v;
+        int main;
         String feat5;
     }
 }
